@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿@"
 venv/
 venvvenv/
@@ -9,3 +10,16 @@ aegisguard.db
 "@ | Set-Content ".gitignore" -Encoding UTF8
 # Streamlit agent skills (environment-specific symlinks)
 .agents/skills/developing-with-streamlit
+=======
+﻿@"
+venv/
+venvvenv/
+__pycache__/
+*.pyc
+.env
+audit_logs.jsonl
+aegisguard.db
+"@ | Set-Content ".gitignore" -Encoding UTF8
+# Streamlit agent skills (environment-specific symlinks)
+.agents/skills/developing-with-streamlit
+>>>>>>> origin/day30-adaptive-response

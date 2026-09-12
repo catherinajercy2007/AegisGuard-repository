@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../../REACT"
+		},
+		{
+			"path": "../../BACKEND"
+		},
+		{
+			"path": "../../../../Downloads/Node/Node"
+		},
+		{
+			"path": "../../../../Downloads/frontend"
+		},
+		{
+			"path": "../../saiket-internship"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "saiket-internship"
+	}
+}
